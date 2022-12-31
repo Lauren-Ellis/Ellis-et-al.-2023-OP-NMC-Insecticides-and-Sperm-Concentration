@@ -6,4 +6,6 @@ The protocol presents the original systematic review protocol in addition to ame
 
 The R Markdown file contains the R code used for Ellis et al. (2023). The file is annotated to briefly explain the methods underlying the statistical analysis. To reproduce the statistical analysis of Ellis et al. (2023), download the extracted results data, open the R Markdown file, and run chunks of code on R as desired. 
 
+An interactive version of the forest plot (Figure 3) is available on Tableau Public (https://public.tableau.com/app/profile/lauren.ellis/viz/Ellisetal_2023ForestPlot_16725149699210/ForestPlot).
+
 Please contact Lauren Ellis (laurenellis@gwu.edu) with questions pertaining to this repository.
